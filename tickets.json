@@ -1,0 +1,73 @@
+[
+    {
+        "user_id": 1083604273247563797,
+        "user_name": "nicolly_272",
+        "channel_id": 1296851114284679279,
+        "channel_name": "nicolly_272\u30fbticket",
+        "product": "robux 100",
+        "status": "open",
+        "assumed": "N\u00e3o foi assumido",
+        "created_at": "2024-10-18 15:03:20"
+    },
+    {
+        "user_id": 1279956000035831808,
+        "user_name": "miguelzin0049_97368",
+        "channel_id": 1297279568557899906,
+        "channel_name": "miguelzin0049_97368\u30fbticket",
+        "product": "Robux",
+        "status": "open",
+        "assumed": "N\u00e3o foi assumido",
+        "created_at": "2024-10-19 19:25:51"
+    },
+    {
+        "user_id": 933513044229750797,
+        "user_name": "guerreiro5200",
+        "channel_id": 1297566254915387423,
+        "channel_name": "guerreiro5200\u30fbticket",
+        "product": "Robux",
+        "status": "open",
+        "assumed": "N\u00e3o foi assumido",
+        "created_at": "2024-10-20 14:25:03"
+    },
+    {
+        "user_id": 1016507744574001182,
+        "user_name": "jorgigames9093",
+        "channel_id": 1297700138533392404,
+        "channel_name": "jorgigames9093\u30fbticket",
+        "product": "frutas f\u00edsicas",
+        "status": "open",
+        "assumed": "N\u00e3o foi assumido",
+        "created_at": "2024-10-20 23:17:03"
+    },
+    {
+        "user_id": 1144927405102866432,
+        "user_name": "theorxzim",
+        "channel_id": 1299457463325691924,
+        "channel_name": "theorxzim\u30fbticket",
+        "product": "Portal fisica",
+        "status": "open",
+        "assumed": "N\u00e3o foi assumido",
+        "created_at": "2024-10-25 19:40:02"
+    },
+    {
+        "user_id": 1052023064667377694,
+        "user_name": "profeta_4219",
+        "channel_id": 1300088236625891468,
+        "channel_name": "profeta_4219\u30fbticket",
+        "product": "Dark blade",
+        "status": "open",
+        "assumed": "Sim",
+        "created_at": "2024-10-27 13:26:30",
+        "assumed_by": 1199686156099530776
+    },
+    {
+        "user_id": 1257040468923908116,
+        "user_name": "pedro086185",
+        "channel_id": 1300674218794553364,
+        "channel_name": "pedro086185\u30fbticket",
+        "product": "Robux",
+        "status": "open",
+        "assumed": "N\u00e3o foi assumido",
+        "created_at": "2024-10-29 04:14:59"
+    }
+]
